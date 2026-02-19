@@ -1,1 +1,2 @@
 https://github.com/yoktobit/template-rust-wasm
+https://github.com/yoktobit/template-rust-gpui-app
