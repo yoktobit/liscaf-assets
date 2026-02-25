@@ -1,0 +1,4 @@
+- name: Rust WASM Template
+  url: https://github.com/yoktobit/template-rust-wasm
+- name: Rust GPUI App Template
+  url: https://github.com/yoktobit/template-rust-gpui-app
