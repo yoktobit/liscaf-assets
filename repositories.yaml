@@ -2,3 +2,4 @@
   url: https://github.com/yoktobit/template-rust-wasm
 - name: Rust GPUI App Template
   url: https://github.com/yoktobit/template-rust-gpui-app
+- name: MCP: Rust wasmCloud v2 component with wasmcp with CUE schemas Template
